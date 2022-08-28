@@ -1,0 +1,14 @@
+/* .main-currency-table{
+    margin: 0;
+} */
+.main-tables-container {
+    justify-content: center;
+}
+.main-currency-table .currency-table--title2 {
+    padding-left: 0;
+    text-align: center;
+}
+.main-currency-table .currency-table--title {
+    padding-left: 0;
+    text-align: center;
+}

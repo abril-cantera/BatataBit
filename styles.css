@@ -152,12 +152,13 @@ main {
 }
 .main-currency-table {
     width: 70%;
-    min-width: 235px;
+    min-width: 300px;
     max-width: 500px;
     height: 360px;
-    margin: 0 66px;
-    font-family: "Inter", sans-serif;    
+    margin: 0 15px;
+    font-family: "Inter", sans-serif; 
 }
+
 .main-currency-table .currency-table--title {
     scroll-snap-align: center;
     margin-bottom: 15px;
@@ -436,7 +437,7 @@ main {
     min-width: 190px;
     max-width: 300px;
     height: 250px;
-    margin: 50px 5px 0;
+    margin: 50px 15px 0;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
@@ -520,3 +521,4 @@ footer .left ul {
     text-decoration: none;
     color: var(--just-white);
 }
+
